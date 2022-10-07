@@ -6,4 +6,4 @@ This a search feature
 ![Image text](https://github.com/6aligula/app-react-native-coingecko/blob/master/images/search.JPG)
 
 App design by Vinicio Naranjo. 
-Powered by ReactJS
+Powered by React Native EXPO
